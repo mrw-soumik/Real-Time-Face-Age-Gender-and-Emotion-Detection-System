@@ -49,9 +49,9 @@ pip install -r requirements.txt
 ### Step 4: Download Large Model Files
 Due to GitHub’s file size limits, the following large model files are not included in the repository. Please download them from the links below and place them in the `data/` directory:
 
-- `age_net.caffemodel` - Age detection model ([Download here](https://drive.google.com/drive/u/0/folders/1CibG5LWevqiM0oQ0pe2sznvyqjDUj8Da))
-- `gender_net.caffemodel` - Gender detection model ([Download here](https://drive.google.com/drive/u/0/folders/1CibG5LWevqiM0oQ0pe2sznvyqjDUj8Da))
-- `emotion_model.hdf5` - Emotion detection model
+- `age_net.caffemodel` - Age detection model ([Download here](https://drive.google.com/file/d/15VCN5Tng4MTzoYBeI17_BQwscFUXbnVB/view?usp=drive_link))
+- `gender_net.caffemodel` - Gender detection model ([Download here](https://drive.google.com/file/d/18VtvvfSpILO6IlhqagMdSKepoizYCXTZ/view?usp=drive_link))
+
 
 ### Step 5: Run the Project
 Use the following command to start the real-time face, age, gender, and emotion detection:
